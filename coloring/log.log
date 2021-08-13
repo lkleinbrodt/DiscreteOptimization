@@ -1,0 +1,36 @@
+ 2021-08-13 16:12:31,664 - INFO - Starting optimization for 50 nodes (500000 iterations)
+ 2021-08-13 16:12:31,669 - INFO - Brute force best: 9
+ 2021-08-13 16:12:31,674 - INFO - Found a better solution on iteration 0: 9
+ 2021-08-13 16:12:31,679 - INFO - Found a better solution on iteration 1: 8
+ 2021-08-13 16:12:31,848 - INFO - Found a better solution on iteration 426: 7
+ 2021-08-13 16:15:56,945 - INFO - Finished optimization for 50 nodes (500000 iterations)
+ 2021-08-13 16:15:56,951 - INFO - Starting optimization for 70 nodes (150000 iterations)
+ 2021-08-13 16:15:56,970 - INFO - Brute force best: 23
+ 2021-08-13 16:15:56,992 - INFO - Found a better solution on iteration 0: 23
+ 2021-08-13 16:16:00,352 - INFO - Found a better solution on iteration 2250: 19
+ 2021-08-13 16:19:45,433 - INFO - Finished optimization for 70 nodes (150000 iterations)
+ 2021-08-13 16:19:45,445 - INFO - Starting optimization for 100 nodes (100000 iterations)
+ 2021-08-13 16:19:45,501 - INFO - Brute force best: 20
+ 2021-08-13 16:19:45,560 - INFO - Found a better solution on iteration 0: 20
+ 2021-08-13 16:19:45,629 - INFO - Found a better solution on iteration 10: 19
+ 2021-08-13 16:19:46,752 - INFO - Found a better solution on iteration 495: 18
+ 2021-08-13 16:23:29,720 - INFO - Finished optimization for 100 nodes (100000 iterations)
+ 2021-08-13 16:23:29,783 - INFO - Starting optimization for 250 nodes (4000 iterations)
+ 2021-08-13 16:23:30,974 - INFO - Brute force best: 96
+ 2021-08-13 16:23:32,473 - INFO - Found a better solution on iteration 1: 96
+ 2021-08-13 16:23:35,121 - INFO - Found a better solution on iteration 34: 95
+ 2021-08-13 16:23:36,906 - INFO - Found a better solution on iteration 51: 94
+ 2021-08-13 16:23:41,853 - INFO - Found a better solution on iteration 122: 92
+ 2021-08-13 16:24:25,465 - INFO - Found a better solution on iteration 941: 91
+ 2021-08-13 16:26:54,272 - INFO - Finished optimization for 250 nodes (4000 iterations)
+ 2021-08-13 16:26:54,350 - INFO - Starting optimization for 500 nodes (400 iterations)
+ 2021-08-13 16:26:55,337 - INFO - Brute force best: 20
+ 2021-08-13 16:26:56,367 - INFO - Found a better solution on iteration 0: 20
+ 2021-08-13 16:26:57,384 - INFO - Found a better solution on iteration 2: 18
+ 2021-08-13 16:27:02,715 - INFO - Finished optimization for 500 nodes (400 iterations)
+ 2021-08-13 16:27:03,200 - INFO - Starting optimization for 1000 nodes (4 iterations)
+ 2021-08-13 16:27:43,118 - INFO - Brute force best: 126
+ 2021-08-13 16:28:42,863 - INFO - Found a better solution on iteration 0: 126
+ 2021-08-13 16:30:00,733 - INFO - Found a better solution on iteration 1: 124
+ 2021-08-13 16:30:49,100 - INFO - Found a better solution on iteration 2: 122
+ 2021-08-13 16:31:37,540 - INFO - Finished optimization for 1000 nodes (4 iterations)
